@@ -220,7 +220,7 @@ waffle_grad = c("#7183b2", "#858c9a", "#88a7c2", "#8ac2e9", "#abc2ac", "#dac254"
 
 # iron that waffle
 waffle_roles = 
-  waffle::waffle(role_count, rows = 5,
+  waffle::waffle(role_count, rows = 6,
                                    colors = c(other_comm_color,
                                               district_color,
                                               waffle_grad[c(6,5)],

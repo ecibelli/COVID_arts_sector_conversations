@@ -6,7 +6,7 @@ One goal of the process was to ensure diverse representation from participants a
 
 The output is a single image comprised of multiple ggplot objects, laid out in a customized grid.
 
-To protect anonymity of participants, the script contained in this folder skips the initial data cleaning steps, which surfaced organization names and participant contact info. The script starts with the cleaned data files, with anonymized identifying info, and shows the steps taken to visualize the data.
+To protect anonymity of participants, the script contained in this folder skips the initial data cleaning steps, which surfaced organization names and participant contact info. The script starts with the cleaned data files, with anonymized identifying info and slightly jittered location coordinates, and shows the steps taken to visualize the data.
 
 #### Contents of this folder:
  + **chicago_community_area_boundaries/**: Shape files for the city of Chicago and its community areas, for mapping.
