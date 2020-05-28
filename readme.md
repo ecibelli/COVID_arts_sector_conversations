@@ -16,6 +16,6 @@ To protect anonymity of participants, the script contained in this folder skips 
  + **build_visualization.R**: The primary script to build the visualization.
  + **plotStandards.R**: Some organization-internal plotting conventions, including color sets and custom ggplot themse.
  
- #### Output
+ #### Output:
  
  ![Participants in the Spring 2020 Ingenuity ArtsEd Response Collective](ARC_participant_visualization_2020-05-28.png?raw=true)
