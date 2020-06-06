@@ -1,0 +1,286 @@
+"","postgresID","SessionDateTime","final_role","Email","Organization","Attended","DisciplinesRepresented","OrgType","city","state","latitude","longitude","community_area"
+"1","168","05/11/2020 - 4PM","Teacher","c75845fc","47e41ab6","Y","Dance","School","Chicago","IL",42.01645,-87.685,"Loop"
+"2","17","4/30/2020 - 9AM","Teaching Artist","7562d238","f49293a3","Y","Multi-disciplinary","School","Chicago","IL",41.93963,-87.74102,"West Town"
+"3","191","5/04/2020 - 2PM","Teacher","d1193792","e3f144e0","N",NA,"School","Chicago","IL",41.8074,-87.74017,"Brighton Park"
+"4","204","4/16/2020 - 12PM","Teaching Artist","da6deace","c0119cbc","N",NA,"School","Chicago","IL",41.79596,-87.62632,"Edgewater"
+"5","204","5/06/2020 - 3PM","Teaching Artist","da6deace","a63be41f","Y",NA,"School","Chicago","IL",41.87707,-87.70507,"Edgewater"
+"6","204","4/30/2020 - 9AM","Teaching Artist","da6deace","a63be41f","N",NA,"School","Chicago","IL",41.93746,-87.72677,"Edgewater"
+"7","204","4/30/2020 - 9AM","Teacher","c98c31cf","a63be41f","N","Theatre","School","Chicago","IL",41.9662,-87.72182,"Edgewater"
+"8","204","05/07/2020 - 4PM","Teacher","5f6b4519","96e938e9","Y","Theatre","School","Chicago","IL",41.88252,-87.76543,"Edgewater"
+"9","204","05/07/2020 - 4PM","Teacher","c98c31cf","96e938e9","Y","Theatre","School","Chicago","IL",41.89947,-87.69484,"Edgewater"
+"10","204","05/20/2020 - 9AM","CPS Administrator","6d89ecab","96e938e9","Y",NA,"School","Chicago","IL",41.74293,-87.58766,"Edgewater"
+"11","204","05/06/2020 - 9AM","CPS Administrator","6d89ecab","91238f6b","Y",NA,"School","Chicago","IL",41.79426,-87.67005,"Edgewater"
+"12","204","05/11/2020 - 4PM","Teacher","c98c31cf","96e938e9","N","Theatre","School","Chicago","IL",41.71997,-87.65693,"Edgewater"
+"13","204","05/11/2020 - 4PM","Teacher","95634cbc","96e938e9","Y","Music","School","Chicago","IL",41.95074,-87.71073,"Edgewater"
+"14","211","05/07/2020 - 4PM","Teacher","f020f1d9","fcf08c45","Y","Music","School","Chicago","IL",41.68446,-87.61678,"Lincoln Park"
+"15","220","05/07/2020 - 4PM","Teacher","ef85ed02","0e1f327c","Y","Music","School","Chicago","IL",41.78378,-87.62201,"North Park"
+"16","222","05/07/2020 - 4PM","Teacher","0247cfdb","2b515aad","N","Theatre","School","Chicago","IL",41.92163,-87.77649,"Kenwood"
+"17","226","05/11/2020 - 4PM","Teacher","59fc903b","bbd3bfc6","Y","Dance","School","Chicago","IL",41.74522,-87.69314,"Archer Heights"
+"18","226","05/11/2020 - 4PM","Teacher","823ec67e","bbd3bfc6","Y","Dance","School","Chicago","IL",41.74814,-87.66896,"Archer Heights"
+"19","262","5/04/2020 - 2PM","Teacher","0a7dcb6a","f93b9a24","N",NA,"School","Chicago","IL",41.72038,-87.6559,"West Ridge"
+"20","262","05/11/2020 - 4PM","Teacher","0a7dcb6a","c3c63846","N","Visual Arts","School","Chicago","IL",42.01352,-87.67518,"West Ridge"
+"21","262","05/11/2020 - 4PM","Teacher","b8406834","c3c63846","Y","Music","School","Chicago","IL",41.88083,-87.65002,"West Ridge"
+"22","272","05/11/2020 - 4PM","Teacher","4a5c1ed0","35df8e77","N","Visual_arts","School","Chicago","IL",41.90695,-87.69412,"South Shore"
+"23","272","05/07/2020 - 4PM","Teacher","4a5c1ed0","35df8e77","Y","Visual_arts","School","Chicago","IL",41.8615,-87.71836,"South Shore"
+"24","337","05/11/2020 - 4PM","Teacher","34b473f9","5cb85dee","N","Visual Arts","School","Chicago","IL",41.88375,-87.66792,"Forest Glen"
+"25","365","5/07/2020 - 9AM","Teaching Artist","7ea6264f","ae974e7e","Y",NA,"School","Chicago","IL",41.85834,-87.72184,"Norwood Park"
+"26","384","05/11/2020 - 4PM","Teacher","3230be6c","4e36a15e","Y","Dance","School","Chicago","IL",41.69726,-87.63112,"Lake View"
+"27","385","05/07/2020 - 4PM","Teacher","bd87f0d5","0db8e282","Y","Theatre","School","Chicago","IL",41.86712,-87.711,"New City"
+"28","420","05/11/2020 - 4PM","Teacher","46bff6c8","c5d0280f","Y","Dance","School","Chicago","IL",41.87786,-87.69917,"North Center"
+"29","420","05/11/2020 - 4PM","Teacher","d9a56d14","c5d0280f","Y","Dance","School","Chicago","IL",41.85648,-87.73081,"North Center"
+"30","435","05/11/2020 - 4PM","Teacher","35899f1c","e1eb0efb","Y","Music","School","Chicago","IL",41.82568,-87.6675,"Washington Heights"
+"31","463","05/11/2020 - 4PM","Teacher","ab17bb6f","ea9f1980","Y","Music","School","Chicago","IL",41.90005,-87.66287,"Lincoln Park"
+"32","474","4/23/2020 - 10AM","Teacher","733c0460","ff91fff5","Y","Visual Art","School","Chicago","IL",41.7652,-87.604,"West Town"
+"33","488","5/06/2020 - 3PM","Teacher","657fc658","5214a6be","N",NA,"School","Chicago","IL",41.89549,-87.66444,"Irving Park"
+"34","532","05/20/2020 - 9AM","Teaching Artist","d2bb536f","fc68a09f","Y",NA,"School","Chicago","IL",41.91485,-87.72957,"Portage Park"
+"35","532","05/07/2020 - 4PM","Teacher","feb8a50e","eaf6fb0f","N","Music","School","Chicago","IL",41.89225,-87.66124,"Portage Park"
+"36","532","05/06/2020 - 9AM","Teaching Artist","d2bb536f","fc68a09f","Y",NA,"School","Chicago","IL",41.8077436,-87.6776045,"Portage Park"
+"37","537","5/04/2020 - 2PM","Teacher","9e34143d","b79e4886","Y","Dance","School","Chicago","IL",41.7708441,-87.6325857,"Lake View"
+"38","537","05/07/2020 - 4PM","Teacher","b72c21e7","14b3483a","Y","Visual Arts","School","Chicago","IL",41.9225467,-87.68081,"Lake View"
+"39","572","05/11/2020 - 4PM","Teacher","0d8d6307","a953b3f3","N","Music","School","Chicago","IL",41.8327688,-87.6266361,"North Park"
+"40","572","05/07/2020 - 4PM","Teacher","0d8d6307","a953b3f3","N","Music","School","Chicago","IL",41.9129724,-87.696402,"North Park"
+"41","585","05/07/2020 - 4PM","Teacher","8e11acfd","0bb73793","Y","Dance","School","Chicago","IL",41.885368,-87.762958,"West Town"
+"42","613","05/07/2020 - 4PM","Teacher","178438af","696658df","Y","Music","School","Chicago","IL",41.865045,-87.7247652,"West Town"
+"43","670","5/04/2020 - 2PM","Teacher","02b5a4f3","699923dd","Y","Dance","School","Chicago","IL",41.8973278,-87.7221372,"Austin"
+"44","720","05/07/2020 - 4PM","Teacher","77d4228c","dc351f27","Y","Theatre","School","Chicago","IL",41.86538,-87.67574,"South Lawndale"
+"45","746","05/11/2020 - 4PM","Teacher","9e6edd5c","cdde06a5","N","Visual Arts","School","Chicago","IL",41.85848,-87.70881,"West Town"
+"46","746","05/07/2020 - 4PM","Teacher","74916002","7d677fdb","N","Visual Arts","School","Chicago","IL",41.86436,-87.70107,"West Town"
+"47","769","05/11/2020 - 4PM","Teacher","2e8bf64e","8c38327e","Y","Music","School","Chicago","IL",41.98328,-87.67124,"Brighton Park"
+"48","771","05/07/2020 - 4PM","Teacher","1180ec68","dcc51625","N","Music","School","Chicago","IL",41.74596,-87.65151,"New City"
+"49","789","05/11/2020 - 4PM","Teacher","289b406d","a26f565f","Y","Dance","School","Chicago","IL",41.85626,-87.6281,"Washington Park"
+"50","791","05/07/2020 - 4PM","Teacher","ccbf8747","fb14a8df","Y","Music","School","Chicago","IL",41.82809,-87.62436,"West Elsdon"
+"51","1","5/07/2020 - 9AM","Program Manager","a457a023","efe7b45a","N",NA,"Partner","Chicago","IL",41.87251,-87.7636,"West Town"
+"52","1021","4/16/2020 - 9AM","Community Member","8395ec1e","fbaa6d80","Y","Multi-disciplinary","Partner","Chicago","IL",41.8923,-87.70809,"Loop"
+"53","1044","5/04/2020 - 2PM","Executive Director","9e06d120","5dc80525","N",NA,"Partner","Chicago","IL",41.77519,-87.66371,"Lower West Side"
+"54","106","05/06/2020 - 9AM","Program Manager","35f7b161","4d76fbd9","Y",NA,"Partner","Chicago","IL",41.82744,-87.60806,"Loop"
+"55","106","05/20/2020 - 9AM","Program Manager","35f7b161","4d76fbd9","Y",NA,"Partner","Chicago","IL",41.81098,-87.59842,"Loop"
+"56","1115","4/22/2020 - 2PM","Program Manager","07038908","343bc22a","Y","Music;Theatre","Partner","Chicago","IL",41.77853,-87.59807,"Hermosa"
+"57","113","4/30/2020 - 9AM","Program Manager","329cb571","5cf5a929","N",NA,"Partner","Chicago","IL",41.81402,-87.60869,"Near West Side"
+"58","114","05/06/2020 - 9AM","Executive Director","82d3db7b","ed7c8184","Y",NA,"Partner","Chicago","IL",41.85941,-87.6679,"Kenwood"
+"59","12","4/23/2020 - 10AM","Program Manager","e9fd69fa","22537a04","Y",NA,"Partner","Evanston","IL",41.84986,-87.69239,NA
+"60","1209","4/16/2020 - 9AM","Executive Director","751be46d","364d9855","Y","Dance;Multi-disciplinary","Partner","Chicago","IL",41.8,-87.69361,"Near North Side"
+"61","121","4/16/2020 - 12PM","Program Manager","d1feee8b","02c40125","N",NA,"Partner","Chicago","IL",41.80821,-87.73068,"Loop"
+"62","122","4/30/2020 - 9AM","Teaching Artist","d4fab32e","879ea667","N",NA,"Partner","Chicago","IL",41.84442,-87.61848,"Kenwood"
+"63","122","4/27/2020 - 1PM","Executive Director","f9fb8567","879ea667","Y",NA,"Partner","Chicago","IL",41.8086,-87.6972,"Kenwood"
+"64","1220","5/04/2020 - 2PM","Executive Director","04aa9890","4b160c0e","Y",NA,"Partner","Chicago","IL",41.86298,-87.65967,"Lincoln Square"
+"65","1220","4/20/2020 - 2PM","Executive Director","04aa9890","4b160c0e","Y",NA,"Partner","Chicago","IL",41.6537,-87.60495,"Lincoln Square"
+"66","1223","4/23/2020 - 10AM","Community Member","989d191a","bbfaf8a2","N",NA,"Partner","Nashville","TN",41.74498,-87.54972,NA
+"67","1336","4/20/2020 - 2PM","Executive Director","59cdb75d","81d7143a","Y",NA,"Partner","Evanston","IL",41.90779,-87.66474,NA
+"68","1336","5/06/2020 - 3PM","Executive Director","59cdb75d","81d7143a","Y",NA,"Partner","Evanston","IL",41.87909,-87.67842,NA
+"69","139","4/22/2020 - 2PM","Program Manager","6a7263e3","210c1f80","Y","Theatre;Literary Arts","Partner","Chicago","IL",41.82307,-87.6942,"Rogers Park"
+"70","145","4/22/2020 - 2PM","Program Manager","deba5f95","7f7e4b37","N","Theatre","Partner","Chicago","IL",41.86271,-87.66014,"Near North Side"
+"71","149","4/23/2020 - 10AM","Program Manager","352ff204","9582513e","Y",NA,"Partner","Chicago","Illinois",41.84575,-87.68586,"Loop"
+"72","149","4/20/2020 - 2PM","Program Manager","352ff204","9582513e","Y",NA,"Partner","Chicago","Illinois",41.8309,-87.61345,"Loop"
+"73","149","4/30/2020 - 9AM","Program Manager","352ff204","9582513e","N",NA,"Partner","Chicago","Illinois",41.73301,-87.54506,"Loop"
+"74","149","4/27/2020 - 1PM","Teaching Artist","851ed3c3","425bc14f","Y",NA,"Partner","Chicago","Illinois",41.74338,-87.66595,"Loop"
+"75","149","4/22/2020 - 2PM","Program Manager","352ff204","9582513e","Y","Multi-disciplinary","Partner","Chicago","Illinois",41.80115,-87.70944,"Loop"
+"76","149","4/27/2020 - 1PM","Program Manager","352ff204","9582513e","N",NA,"Partner","Chicago","Illinois",41.90723,-87.64544,"Loop"
+"77","153","05/20/2020 - 9AM","Executive Director","0aeae94f","e884b72d","Y",NA,"Partner","Chicago","IL",41.9025465,-87.6635851,"Near North Side"
+"78","153","4/30/2020 - 9AM","Program Manager","b5d06e37","e884b72d","N",NA,"Partner","Chicago","IL",41.7458355,-87.6520244,"Near North Side"
+"79","153","05/06/2020 - 9AM","Executive Director","0aeae94f","e884b72d","Y",NA,"Partner","Chicago","IL",41.7523278,-87.6002223,"Near North Side"
+"80","159","5/06/2020 - 3PM","Program Manager","7632c866","6f298fe2","Y",NA,"Partner","Chicago","IL",41.804644,-87.6255003,"Near North Side"
+"81","159","4/16/2020 - 12PM","Executive Director","7dee8299","52e9c29f","Y","Theatre","Partner","Chicago","IL",41.7675808,-87.6678672,"Near North Side"
+"82","159","4/20/2020 - 2PM","Program Manager","727120f7","5f996aa2","N",NA,"Partner","Chicago","IL",41.7206932,-87.6620432,"Near North Side"
+"83","159","4/30/2020 - 9AM","Program Manager","727120f7","5f996aa2","Y","Visual Arts;Multi-disciplinary","Partner","Chicago","IL",41.77097,-87.69251,"Near North Side"
+"84","159","4/22/2020 - 2PM","Program Manager","7dee8299","52e9c29f","N",NA,"Partner","Chicago","IL",41.86923,-87.71001,"Near North Side"
+"85","159","4/22/2020 - 2PM","Program Manager","727120f7","5f996aa2","N",NA,"Partner","Chicago","IL",41.91779,-87.78801,"Near North Side"
+"86","172","05/20/2020 - 9AM","Program Manager","b50788e6","2a29dce7","Y",NA,"Partner","DeKalb","IL",41.88014,-87.74214,NA
+"87","172","05/06/2020 - 9AM","Program Manager","b50788e6","2a29dce7","Y",NA,"Partner","DeKalb","IL",41.84159,-87.62535,NA
+"88","19","4/22/2020 - 2PM","Program Manager","38ebb946","a7ce7aaa","Y","Music;Theatre;Dance;Literary Arts","Partner","Chicago","IL",41.93793,-87.72677,"Loop"
+"89","191","4/16/2020 - 9AM","Program Manager","4251fe2d","b6a25508","N",NA,"Partner","Chicago","IL",41.90157,-87.70731,"Loop"
+"90","191","4/20/2020 - 2PM","Executive Director","4251fe2d","b6a25508","Y",NA,"Partner","Chicago","IL",41.89518,-87.76034,"Loop"
+"91","206","4/20/2020 - 2PM","Program Manager","85da23ac","90e74dca","Y",NA,"Partner","Chicago","IL",41.86508,-87.72476,"Loop"
+"92","208","4/22/2020 - 2PM","Program Manager","026eb115","4d623866","N",NA,"Partner","Chicago","IL",41.7521,-87.57538,"Near West Side"
+"93","208","5/06/2020 - 3PM","Program Manager","026eb115","4d623866","Y",NA,"Partner","Chicago","IL",41.75131,-87.64161,"Near West Side"
+"94","21","4/23/2020 - 10AM","Program Manager","00bdf070","28ad03e2","Y",NA,"Partner","Chicago","IL",41.88265,-87.62672,"Lincoln Square"
+"95","21","5/07/2020 - 9AM","Executive Director","d8515ba7","410be872","N",NA,"Partner","Chicago","IL",41.85703,-87.64511,"Lincoln Square"
+"96","21","4/16/2020 - 9AM","Program Manager","00bdf070","410be872","N",NA,"Partner","Chicago","IL",41.85464,-87.69525,"Lincoln Square"
+"97","214","5/06/2020 - 3PM","Program Manager","f7983a31","4b4e475f","Y",NA,"Partner","Chicago","IL",41.71054,-87.59212,"Lincoln Park"
+"98","221","05/15/2020 - 11AM","Program Manager","796b19fd","cebd306f","Y","Visual Art","Partner","Chicago","IL",41.80994,-87.59961,"Near North Side"
+"99","223","4/23/2020 - 10AM","Teaching Artist","e6a688cf","5033b78f","N",NA,"Partner","Chicago","IL",41.8906,-87.7028,"Loop"
+"100","223","4/30/2020 - 9AM","Teaching Artist","e6a688cf","5033b78f","N",NA,"Partner","Chicago","IL",41.90199,-87.74925,"Loop"
+"101","223","4/20/2020 - 2PM","Teaching Artist","e6a688cf","5033b78f","Y",NA,"Partner","Chicago","IL",41.83252,-87.62713,"Loop"
+"102","223","05/20/2020 - 9AM","Program Manager","31fa4e4b","37b32ff8","Y",NA,"Partner","Chicago","IL",41.89165,-87.74679,"Loop"
+"103","223","05/06/2020 - 9AM","Program Manager","31fa4e4b","37b32ff8","Y",NA,"Partner","Chicago","IL",41.69196,-87.6543,"Loop"
+"104","223","5/04/2020 - 2PM","Program Manager","af3d540a","5033b78f","Y",NA,"Partner","Chicago","IL",41.84562,-87.68413,"Loop"
+"105","23","5/07/2020 - 9AM","Program Manager","ae895ddc","400d42ba","Y",NA,"Partner","Chicago","IL",41.80071,-87.71113,"Morgan Park"
+"106","23","4/27/2020 - 1PM","Teaching Artist","ae895ddc","400d42ba","Y",NA,"Partner","Chicago","IL",41.72999,-87.60678,"Morgan Park"
+"107","23","5/06/2020 - 3PM","Program Manager","7b93daea","492cf7ec","Y",NA,"Partner","Chicago","IL",41.8873,-87.70254,"Morgan Park"
+"108","23","4/16/2020 - 9AM","Program Manager","7b93daea","492cf7ec","Y","Visual Art;Music;Theatre;Dance","Partner","Chicago","IL",41.81331,-87.69347,"Morgan Park"
+"109","23","4/30/2020 - 9AM","Program Manager","7b93daea","492cf7ec","N",NA,"Partner","Chicago","IL",41.70654,-87.6026,"Morgan Park"
+"110","23","4/23/2020 - 10AM","Program Manager","7b93daea","492cf7ec","Y",NA,"Partner","Chicago","IL",41.67938,-87.61829,"Morgan Park"
+"111","232","4/27/2020 - 1PM","Executive Director","c58ebbe7","ff0f0c28","Y",NA,"Partner","Chicago","IL",41.93963,-87.74102,"Loop"
+"112","242","5/07/2020 - 9AM","Program Manager","4f6b5aaa","061f9f48",NA,NA,"Partner","Chicago","IL",41.79339,-87.64088,"Lake View"
+"113","250","4/22/2020 - 2PM","Program Manager","2318c07c","f6c065dd","N",NA,"Partner","Chicago","IL",41.8873,-87.70254,"Loop"
+"114","250","4/23/2020 - 10AM","Program Manager","404af393","f6c065dd","N",NA,"Partner","Chicago","IL",42.0207627,-87.6727148,"Loop"
+"115","250","4/23/2020 - 10AM","Program Manager","a2aff15a","f6c065dd","N",NA,"Partner","Chicago","IL",41.8319456,-87.7080314,"Loop"
+"116","250","4/20/2020 - 2PM","Program Manager","404af393","f6c065dd","N",NA,"Partner","Chicago","IL",41.8832458,-87.6517838,"Loop"
+"117","250","05/20/2020 - 9AM","Executive Director","4265f2de","f6c065dd","Y","Multi-disciplinary","Partner","Chicago","IL",41.8456193,-87.6841926,"Loop"
+"118","250","5/04/2020 - 2PM","Program Manager","29eb26d2","f6c065dd","Y",NA,"Partner","Chicago","IL",41.8456193,-87.6841926,"Loop"
+"119","250","4/30/2020 - 9AM","Program Manager","29eb26d2","f6c065dd","N",NA,"Partner","Chicago","IL",41.8779877,-87.6990118,"Loop"
+"120","250","4/20/2020 - 2PM","Program Manager","29eb26d2","f6c065dd","Y",NA,"Partner","Chicago","IL",41.8874947,-87.7025234,"Loop"
+"121","250","4/30/2020 - 9AM","Program Manager","2318c07c","f6c065dd","N",NA,"Partner","Chicago","IL",41.84037,-87.61851,"Loop"
+"122","250","4/27/2020 - 1PM","Program Manager","404af393","f6c065dd","N",NA,"Partner","Chicago","IL",41.91942,-87.76185,"Loop"
+"123","250","5/04/2020 - 2PM","Program Manager","2318c07c","f6c065dd","N",NA,"Partner","Chicago","IL",41.80272,-87.66193,"Loop"
+"124","250","5/06/2020 - 3PM","Program Manager","29eb26d2","f6c065dd","Y",NA,"Partner","Chicago","IL",41.91265,-87.73539,"Loop"
+"125","250","4/22/2020 - 2PM","Program Manager","404af393","f6c065dd","N",NA,"Partner","Chicago","IL",41.74535,-87.63463,"Loop"
+"126","250","4/30/2020 - 9AM","Program Manager","404af393","f6c065dd","N",NA,"Partner","Chicago","IL",41.88911,-87.70732,"Loop"
+"127","250","05/06/2020 - 9AM","Executive Director","4265f2de","f6c065dd","Y",NA,"Partner","Chicago","IL",41.79198,-87.72494,"Loop"
+"128","250","5/07/2020 - 9AM","Program Manager","404af393","f6c065dd","N",NA,"Partner","Chicago","IL",41.97509,-87.68031,"Loop"
+"129","250","4/23/2020 - 10AM","Program Manager","29eb26d2","f6c065dd","N",NA,"Partner","Chicago","IL",41.74876,-87.72067,"Loop"
+"130","250","5/04/2020 - 2PM","Program Manager","404af393","f6c065dd","N",NA,"Partner","Chicago","IL",41.84934,-87.7083,"Loop"
+"131","250","4/20/2020 - 2PM","Program Manager","0104d9d6","f6c065dd","Y",NA,"Partner","Chicago","IL",41.68968,-87.63835,"Loop"
+"132","250","4/27/2020 - 1PM","Program Manager","29eb26d2","f6c065dd","N",NA,"Partner","Chicago","IL",41.77025,-87.63687,"Loop"
+"133","250","5/06/2020 - 3PM","Program Manager","404af393","f6c065dd","N",NA,"Partner","Chicago","IL",41.79103,-87.68973,"Loop"
+"134","250","4/22/2020 - 2PM","Program Manager","29eb26d2","f6c065dd","Y",NA,"Partner","Chicago","IL",41.71819,-87.62128,"Loop"
+"135","254","5/04/2020 - 2PM","Program Manager","7c50c5a5","5f746408","Y",NA,"Partner","Glencoe","IL",41.77499,-87.66957,NA
+"136","254","4/30/2020 - 9AM","Program Manager","7c50c5a5","5f746408","N",NA,"Partner","Glencoe","IL",41.75422,-87.60163,NA
+"137","262","5/04/2020 - 2PM","Teaching Artist","d5d87a4b","1b60bd92","N",NA,"Partner","Chicago","IL",41.78214,-87.58724,"Hyde Park"
+"138","262","4/20/2020 - 2PM","Program Manager","5009d078","1b60bd92","Y",NA,"Partner","Chicago","IL",41.81861,-87.69512,"Hyde Park"
+"139","262","4/27/2020 - 1PM","Teaching Artist","c6e4c45a","6d2ccf78","N",NA,"Partner","Chicago","IL",41.92722,-87.73604,"Hyde Park"
+"140","271","4/16/2020 - 12PM","Executive Director","041165a3","c0b980b1","Y","Dance","Partner","Chicago","IL",41.79023,-87.78032,"Forest Glen"
+"141","328","4/16/2020 - 12PM","Executive Director","aefe3b0d","b8a70c5b","Y","Multi-disciplinary","Partner","Chicago","IL",41.95523,-87.66861,"West Ridge"
+"142","328","4/16/2020 - 12PM","Executive Director","af025297","6a64c527","Y",NA,"Partner","Chicago","IL",41.87056,-87.69971,"West Ridge"
+"143","329","4/16/2020 - 9AM","Teaching Artist","ab9d39ee","9125e596","Y",NA,"Partner","Chicago","IL",41.87901,-87.70699,"Near West Side"
+"144","33","4/20/2020 - 2PM","Program Manager","f505c3d1","b7496c5b","Y",NA,"Partner","Chicago","IL",41.69414,-87.61584,"Lower West Side"
+"145","33","4/20/2020 - 2PM","Program Manager","14a063de","b7496c5b","Y",NA,"Partner","Chicago","IL",41.74238,-87.5597,"Lower West Side"
+"146","33","4/20/2020 - 2PM","Program Manager","c7161fac","b7496c5b","Y",NA,"Partner","Chicago","IL",41.6947,-87.65348,"Lower West Side"
+"147","353","4/30/2020 - 9AM","Teaching Artist","a1464d50","aeafd89d","Y",NA,"Partner","Chicago","IL",41.80839,-87.70237,"North Park"
+"148","353","4/22/2020 - 2PM","Teaching Artist","a1464d50","aeafd89d","Y",NA,"Partner","Chicago","IL",41.76051,-87.5568,"North Park"
+"149","353","5/06/2020 - 3PM","Teaching Artist","a1464d50","aeafd89d","Y",NA,"Partner","Chicago","IL",41.7658,-87.69061,"North Park"
+"150","353","4/20/2020 - 2PM","Teaching Artist","a1464d50","aeafd89d","Y",NA,"Partner","Chicago","IL",41.87296,-87.62793,"North Park"
+"151","353","5/07/2020 - 9AM","Teaching Artist","a1464d50","aeafd89d","Y",NA,"Partner","Chicago","IL",41.90166,-87.63513,"North Park"
+"152","353","4/27/2020 - 1PM","Teaching Artist","a1464d50","aeafd89d","Y",NA,"Partner","Chicago","IL",41.93977,-87.75273,"North Park"
+"153","353","5/04/2020 - 2PM","Teaching Artist","a1464d50","aeafd89d","Y",NA,"Partner","Chicago","IL",41.8097986,-87.6268868,"North Park"
+"154","365","4/30/2020 - 9AM","Teaching Artist","9aafe681","e3572b15","Y",NA,"Partner","Chicago","IL",41.8313967,-87.6272292,"Near West Side"
+"155","365","4/20/2020 - 2PM","Teaching Artist","9aafe681","e3572b15","N",NA,"Partner","Chicago","IL",41.876853,-87.683244,"Near West Side"
+"156","368","4/20/2020 - 2PM","Executive Director","6012f1bb","093282db","N",NA,"Partner","Chicago","IL",41.7281933,-87.6484787,"Roseland"
+"157","37","05/20/2020 - 9AM","Teaching Artist","4d90009f","07fedecf","Y","Visual Arts","Partner","Chicago","IL",41.6897069,-87.63784,"Loop"
+"158","37","4/22/2020 - 2PM","Program Manager","682873e9","07fedecf","Y","Multi-disciplinary","Partner","Chicago","IL",41.98901,-87.66677,"Loop"
+"159","37","4/16/2020 - 9AM","Teaching Artist","4d90009f","07fedecf","Y","Visual Art","Partner","Chicago","IL",42.00281,-87.66892,"Loop"
+"160","42","4/30/2020 - 9AM","Program Manager","bbc91b7b","f3d021f8","Y",NA,"Partner","Chicago","IL",41.98435,-87.79168,"West Town"
+"161","42","5/07/2020 - 9AM","Program Manager","bbc91b7b","f3d021f8","N",NA,"Partner","Chicago","IL",41.97339,-87.7135,"West Town"
+"162","42","4/16/2020 - 9AM","Program Manager","bbc91b7b","f3d021f8","Y","Visual Art;Music;Theatre;Literary Arts","Partner","Chicago","IL",41.68749,-87.53819,"West Town"
+"163","42","4/27/2020 - 1PM","Program Manager","bbc91b7b","f3d021f8","N",NA,"Partner","Chicago","IL",41.78055,-87.7179,"West Town"
+"164","42","5/04/2020 - 2PM","Program Manager","bbc91b7b","f3d021f8","N",NA,"Partner","Chicago","IL",41.75969,-87.67631,"West Town"
+"165","425","4/16/2020 - 9AM","Executive Director","8084a179","a2161e80","Y","Theatre","Partner","Chicago","IL",41.88838,-87.755741,"Albany Park"
+"166","425","4/16/2020 - 9AM","Program Manager","df3f8048","a2161e80","Y","Multi-disciplinary","Partner","Chicago","IL",41.7999524,-87.7275826,"Albany Park"
+"167","45","4/16/2020 - 12PM","Community Member","b17f69e9","62bd6beb","Y","Other","Partner","Chicago","IL",41.8941496,-87.7264621,"Logan Square"
+"168","461","05/11/2020 - 4PM","Community Member","2219d911","7bc5ebc3","Y",NA,"Partner","Evanston","IL",41.86461,-87.66836,NA
+"169","461","05/20/2020 - 9AM","Teaching Artist","2f0c375f","9e2a745c","Y","Dance","Partner","Evanston","IL",41.80224,-87.72171,NA
+"170","461","05/06/2020 - 9AM","Teaching Artist","2f0c375f","9e2a745c","Y",NA,"Partner","Evanston","IL",41.70654,-87.6026,NA
+"171","473","4/16/2020 - 9AM","Executive Director","63298231","f1fd523a","Y","Theatre;Literary Arts;Multi-disciplinary","Partner","Chicago","IL",41.96026,-87.76437,"Lincoln Square"
+"172","492","05/15/2020 - 11AM","Community Member","422f9795","e6a4b214","Y",NA,"Partner","Chicago","IL",41.79339,-87.64088,"Loop"
+"173","493","4/22/2020 - 2PM","Executive Director","489aa4fb","0dc87e13","Y",NA,"Partner","Chicago","IL",41.84959,-87.62542,"Uptown"
+"174","493","4/27/2020 - 1PM","Executive Director","489aa4fb","0dc87e13","N",NA,"Partner","Chicago","IL",41.83405,-87.6501,"Uptown"
+"175","516","4/20/2020 - 2PM","Executive Director","4f167501","f75fa5ee","Y",NA,"Partner","Chicago","IL",42.01063,-87.68496,"Uptown"
+"176","53","4/22/2020 - 2PM","Teaching Artist","ab9a4c36","25f0c665","Y","Music;Theatre;Dance","Partner","Chicago","IL",41.94538,-87.68115,"Loop"
+"177","53","4/16/2020 - 9AM","Program Manager","1943c3ca","25f0c665","Y","Multi-disciplinary","Partner","Chicago","IL",41.74852,-87.59129,"Loop"
+"178","53","4/20/2020 - 2PM","Teaching Artist","333dbd65","25f0c665","Y",NA,"Partner","Chicago","IL",41.91912,-87.64555,"Loop"
+"179","550","4/27/2020 - 1PM","Program Manager","ab4f73bc","75547fd6","Y",NA,"Partner","Skoke","IL",41.89912,-87.66807,NA
+"180","550","5/06/2020 - 3PM","Program Manager","ab4f73bc","75547fd6","Y",NA,"Partner","Skoke","IL",41.84254,-87.69709,NA
+"181","550","5/06/2020 - 3PM","Program Manager","c57889ea","75547fd6","N",NA,"Partner","Skoke","IL",41.69045,-87.71786,NA
+"182","550","4/16/2020 - 9AM","Program Manager","b96921c3","75547fd6","Y","Theatre","Partner","Skoke","IL",41.87825,-87.66367,NA
+"183","56","5/04/2020 - 2PM","Program Manager","ecaf5e4e","34b0346a","Y",NA,"Partner","Chicago","IL",41.90262,-87.68613,"Near North Side"
+"184","58","4/20/2020 - 2PM","Program Manager","20d50dbd","578cd0d7","Y",NA,"Partner","Chicago","IL",41.85372,-87.66364,"Loop"
+"185","58","5/04/2020 - 2PM","Program Manager","20d50dbd","578cd0d7","Y",NA,"Partner","Chicago","IL",41.91619,-87.72246,"Loop"
+"186","58","4/16/2020 - 12PM","Program Manager","20d50dbd","578cd0d7","Y","Music","Partner","Chicago","IL",41.7653535,-87.6581405,"Loop"
+"187","58","05/20/2020 - 9AM","Program Manager","6e01a864","94c2f20b","Y",NA,"Partner","Chicago","IL",41.9024478,-87.6739089,"Loop"
+"188","58","4/16/2020 - 9AM","Program Manager","20d50dbd","578cd0d7","N",NA,"Partner","Chicago","IL",41.9349077,-87.7084096,"Loop"
+"189","6","4/22/2020 - 2PM","Teaching Artist","5b909a5f","b84ab98e","Y","Other","Partner","Chicago","IL",41.935631,-87.784152,"Loop"
+"190","6","4/23/2020 - 10AM","Teaching Artist","602e918f","b84ab98e","Y",NA,"Partner","Chicago","IL",41.9326996,-87.7398779,"Loop"
+"191","6","5/04/2020 - 2PM","Teaching Artist","dd6078fb","b84ab98e","N",NA,"Partner","Chicago","IL",41.8301051,-87.6189808,"Loop"
+"192","766","4/16/2020 - 9AM","Program Manager","26ff71e9","415464b4","Y","Multi-disciplinary","Partner","Chicago","IL",41.8676707,-87.681079,"Washington Park"
+"193","768","4/16/2020 - 12PM","Teaching Artist","216eb37f","beef5092","N",NA,"Partner","Chicago","IL",41.8013958,-87.6123864,"Grand Boulevard"
+"194","768","5/07/2020 - 9AM","Teaching Artist","216eb37f","beef5092","Y",NA,"Partner","Chicago","IL",41.8023161,-87.6255022,"Grand Boulevard"
+"195","768","4/27/2020 - 1PM","Teaching Artist","216eb37f","beef5092","N",NA,"Partner","Chicago","IL",41.77483,-87.6538,"Grand Boulevard"
+"196","768","4/16/2020 - 12PM","Executive Director","09115a50","beef5092","Y","Dance","Partner","Chicago","IL",41.95818,-87.7026,"Grand Boulevard"
+"197","768","5/04/2020 - 2PM","Teaching Artist","216eb37f","beef5092","N",NA,"Partner","Chicago","IL",41.78446,-87.6479,"Grand Boulevard"
+"198","768","4/23/2020 - 10AM","Executive Director","09115a50","beef5092","Y",NA,"Partner","Chicago","IL",41.9711,-87.70942,"Grand Boulevard"
+"199","768","4/23/2020 - 10AM","Teaching Artist","216eb37f","beef5092","Y",NA,"Partner","Chicago","IL",41.86787,-87.76989,"Grand Boulevard"
+"200","768","4/16/2020 - 9AM","Teaching Artist","216eb37f","beef5092","Y","Dance","Partner","Chicago","IL",41.97204,-87.75682,"Grand Boulevard"
+"201","768","5/06/2020 - 3PM","Teaching Artist","216eb37f","beef5092","Y",NA,"Partner","Chicago","IL",41.88511,-87.70489,"Grand Boulevard"
+"202","768","4/30/2020 - 9AM","Teaching Artist","216eb37f","beef5092","Y",NA,"Partner","Chicago","IL",41.9295783,-87.6458976,"Grand Boulevard"
+"203","768","4/22/2020 - 2PM","Teaching Artist","216eb37f","beef5092","N",NA,"Partner","Chicago","IL",41.71052,-87.61699,"Grand Boulevard"
+"204","768","4/20/2020 - 2PM","Teaching Artist","216eb37f","beef5092","Y",NA,"Partner","Chicago","IL",41.95095,-87.66501,"Grand Boulevard"
+"205","837","05/20/2020 - 9AM","Executive Director","2c69f4fb","fcb509e1","Y",NA,"Partner","Chicago","IL",41.75378,-87.70899,"Loop"
+"206","837","05/06/2020 - 9AM","Executive Director","2c69f4fb","a2068d2c","Y",NA,"Partner","Chicago","IL",41.68637,-87.63341,"Loop"
+"207","84","05/15/2020 - 11AM","Community Member","814e2268","68886e76","Y",NA,"Partner","Chicago","IL",41.94967,-87.79893,"Loop"
+"208","84","05/06/2020 - 9AM","Program Manager","52e7ffdb","68886e76","Y",NA,"Partner","Chicago","IL",41.88263,-87.67058,"Loop"
+"209","84","5/07/2020 - 9AM","Program Manager","1f3a50ac","68886e76","Y",NA,"Partner","Chicago","IL",41.77159,-87.62141,"Loop"
+"210","84","05/15/2020 - 11AM","Program Manager","7e61369e","68886e76","Y",NA,"Partner","Chicago","IL",41.76114,-87.57607,"Loop"
+"211","851","05/06/2020 - 9AM","Executive Director","2af7d2c8","dd8b80b2","Y",NA,"Partner","Chicago","IL",41.97532,-87.69688,"West Englewood"
+"212","86","4/16/2020 - 9AM","Executive Director","87f6e443","6ad216ea","Y","Dance","Partner","Chicago","IL",41.79689,-87.61614,"West Ridge"
+"213","86","4/20/2020 - 2PM","Program Manager","6b88cdc3","6ad216ea","Y",NA,"Partner","Chicago","IL",41.84554,-87.71514,"West Ridge"
+"214","86","5/04/2020 - 2PM","Program Manager","2f6850d0","6ad216ea","Y",NA,"Partner","Chicago","IL",41.72882,-87.60766,"West Ridge"
+"215","86","5/04/2020 - 2PM","Teaching Artist","d363d3a0","6ad216ea","Y",NA,"Partner","Chicago","IL",41.91213,-87.66868,"West Ridge"
+"216","86","5/04/2020 - 2PM","Program Manager","6b88cdc3","6ad216ea","Y",NA,"Partner","Chicago","IL",41.82886,-87.6927,"West Ridge"
+"217","86","4/20/2020 - 2PM","Program Manager","2f6850d0","6ad216ea","Y",NA,"Partner","Chicago","IL",41.89766,-87.7658,"West Ridge"
+"218","86","4/27/2020 - 1PM","Program Manager","5dc9a503","6ad216ea","Y",NA,"Partner","Chicago","IL",41.79482,-87.79102,"West Ridge"
+"219","893","4/16/2020 - 12PM","Executive Director","111ff450","e5b57fe5","N",NA,"Partner","Chicago","IL",41.73928,-87.58153,"Logan Square"
+"220","893","4/22/2020 - 2PM","Executive Director","111ff450","849c23c6","Y",NA,"Partner","Chicago","IL",41.84295,-87.7175,"Logan Square"
+"221","895","4/16/2020 - 9AM","Executive Director","c7ee63a7","31ec0a6f","N",NA,"Partner","Chicago","IL",41.90407,-87.71822,"Near West Side"
+"222","895","4/30/2020 - 9AM","Executive Director","c7ee63a7","31ec0a6f","N",NA,"Partner","Chicago","IL",41.94793,-87.8299,"Near West Side"
+"223","895","4/16/2020 - 12PM","Executive Director","c7ee63a7","31ec0a6f","N",NA,"Partner","Chicago","IL",41.65741,-87.60747,"Near West Side"
+"224","903","4/16/2020 - 12PM","Executive Director","4721ba00","32ad7735","Y",NA,"Partner","Chicago","IL",41.68752,-87.70396,"Loop"
+"225","929","4/16/2020 - 12PM","Program Manager","70b286b8","5aa52d9c","Y","Music","Partner","Chicago","IL",41.9532,-87.65076,"Lake View"
+"226","929","4/16/2020 - 12PM","Program Manager","5e68ca18","5aa52d9c","Y","Music","Partner","Chicago","IL",41.97468,-87.68325,"Lake View"
+"227","938","4/20/2020 - 2PM","Program Manager","5f25d863","ad8e655b","N",NA,"Partner","Chicago","IL",41.91817,-87.69428,"Edgewater"
+"228","938","4/22/2020 - 2PM","Program Manager","5f25d863","ad8e655b","Y","Theatre;Literary Arts","Partner","Chicago","IL",41.70929,-87.56654,"Edgewater"
+"229","938","4/16/2020 - 9AM","Program Manager","5f25d863","ad8e655b","N",NA,"Partner","Chicago","IL",41.79311,-87.68793,"Edgewater"
+"230","943","5/07/2020 - 9AM","Program Manager","d510ccf5","b99fae1a","Y",NA,"Partner","Chicago","IL",41.8662,-87.69513,"Lake View"
+"231","943","05/06/2020 - 9AM","Executive Director","34f1193a","b99fae1a","Y",NA,"Partner","Chicago","IL",41.917759,-87.7822516,"Lake View"
+"232","943","05/20/2020 - 9AM","Executive Director","34f1193a","b99fae1a","Y",NA,"Partner","Chicago","IL",41.8937679,-87.658807,"Lake View"
+"233","972","4/16/2020 - 9AM","Executive Director","4d74a7c4","0be83cdb","N",NA,"Partner","Chicago","IL",41.65469,-87.54407,"Morgan Park"
+"234","975","4/22/2020 - 2PM","Executive Director","61b12e19","833a5e82","Y","Music","Partner","Chicago","IL",41.99319,-87.69826,"West Town"
+"235","985","4/16/2020 - 9AM","Program Manager","b9feb837","6a580098","Y","Theatre","Partner","Chicago","IL",41.69294,-87.68072,"Lake View"
+"236","985","4/22/2020 - 2PM","Executive Director","b9feb837","6a580098","Y",NA,"Partner","Chicago","IL",41.89969,-87.68142,"Lake View"
+"237","795","5/04/2020 - 2PM","Teacher","d984f4cf","0f398328","N",NA,"District",NA,NA,42.01709,-87.67803,NA
+"238","795","5/06/2020 - 3PM","CPS Administrator","2cb2606d","b074d03a","N",NA,"District",NA,NA,41.95542,-87.684,NA
+"239","795","05/06/2020 - 9AM","CPS Administrator","6850f06b","30fd0f29","Y",NA,"District",NA,NA,41.6881,-87.68563,NA
+"240","795","4/22/2020 - 2PM","CPS Administrator","6850f06b","fce870ec","Y","Visual Art;Music;Theatre;Dance;Media Arts;Mutli-disciplinary","District",NA,NA,41.85567,-87.65819,NA
+"241","795","05/20/2020 - 9AM","CPS Administrator","6850f06b","30fd0f29","Y",NA,"District",NA,NA,41.85282,-87.71286,NA
+"242","795","4/27/2020 - 1PM","CPS Administrator","6850f06b","fce870ec","Y",NA,"District",NA,NA,41.97317,-87.8416,NA
+"243","795","5/06/2020 - 3PM","CPS Administrator","6850f06b","fce870ec","N",NA,"District",NA,NA,41.92351,-87.7053,NA
+"244","795","5/04/2020 - 2PM","CPS Administrator","6850f06b","fce870ec","Y",NA,"District",NA,NA,41.82224,-87.70033,NA
+"245","999999","4/20/2020 - 2PM","Executive Director","d522a7ab","15da3487","Y",NA,"Other",NA,NA,41.74559,-87.71863,NA
+"246","999999","4/20/2020 - 2PM","Executive Director","54fa6189","15da3487","Y",NA,"Other",NA,NA,42.00951,-87.70491,NA
+"247","999999","5/04/2020 - 2PM","Community Member","4d167e23","55fe1f91","N",NA,"Other",NA,NA,41.94256,-87.81359,NA
+"248","999999","4/27/2020 - 1PM","Community Member","4d167e23","55fe1f91","Y",NA,"Other",NA,NA,41.74313,-87.61101,NA
+"249","999999","4/20/2020 - 2PM","Community Member","4d167e23","55fe1f91","Y",NA,"Other",NA,NA,41.83064,-87.61228,NA
+"250","999999","05/06/2020 - 9AM","Executive Director","07c1b452","98bee77f","Y",NA,"Other",NA,NA,41.84418,-87.62886,NA
+"251","999999","05/20/2020 - 9AM","Executive Director","07c1b452","2270a47e","Y",NA,"Other",NA,NA,41.7257,-87.63046,NA
+"252","999999","05/15/2020 - 11AM","Executive Director","104bc376","8aa86745","Y",NA,"Other",NA,NA,41.91572,-87.67449,NA
+"253","999999","05/15/2020 - 11AM","Executive Director","88ef672f","55fe1f91","Y",NA,"Other",NA,NA,41.78165,-87.67567,NA
+"254","999999","05/20/2020 - 9AM","Executive Director","88ef672f","55fe1f91","Y",NA,"Other",NA,NA,41.77463,-87.70834,NA
+"255","999999","05/06/2020 - 9AM","Executive Director","88ef672f","55fe1f91","Y",NA,"Other",NA,NA,41.87608,-87.71647,NA
+"256","795","4/20/2020 - 2PM","CPS Administrator","d9a2bc45","0f398328","Y",NA,"District",NA,NA,41.68911,-87.66952,NA
+"257","999999","5/04/2020 - 2PM","Teaching Artist","2428d7b5","d50ef3c1","N",NA,"Other",NA,NA,41.93559,-87.75061,NA
+"258","795","4/20/2020 - 2PM","CPS Administrator","1aec22aa","fce870ec","Y",NA,"District",NA,NA,42.00465,-87.81082,NA
+"259","795","4/23/2020 - 10AM","CPS Administrator","1aec22aa","dd3b5eed","Y",NA,"District",NA,NA,41.68575,-87.62205,NA
+"260","795","5/07/2020 - 9AM","CPS Administrator","1aec22aa","fce870ec","Y",NA,"District",NA,NA,41.99944,-87.76184,NA
+"261","795","4/16/2020 - 9AM","CPS Administrator","fad1ff4c","30fd0f29","Y",NA,"District",NA,NA,41.8809312,-87.7640378,NA
+"262","795","4/30/2020 - 9AM","CPS Administrator","fad1ff4c","fce870ec","Y","Multi-disciplinary","District",NA,NA,41.7816454,-87.6756705,NA
+"263","795","4/16/2020 - 12PM","CPS Administrator","fad1ff4c","30fd0f29","Y","Multi-disciplinary","District",NA,NA,41.7674131,-87.5904757,NA
+"264","999999","05/20/2020 - 9AM","Executive Director","832122b2","d0479128","Y",NA,"Other",NA,NA,42.00971,-87.67009,NA
+"265","999999","05/06/2020 - 9AM","Executive Director","832122b2","d0479128","Y",NA,"Other",NA,NA,41.78526,-87.60852,NA
+"266","999999","4/27/2020 - 1PM","Program Manager","a690541a","001f39da","Y",NA,"Other",NA,NA,41.85045,-87.70459,NA
+"267","999999","4/22/2020 - 2PM","Teacher","dfd052ed","37fbab26","Y","Media Arts;Mutli-disciplinary;Other","Other",NA,NA,41.92111,-87.75788,NA
+"268","999999","5/06/2020 - 3PM","Teaching Artist","ff50c1f7","1e19946a","Y",NA,"Other",NA,NA,41.72992,-87.65497,NA
+"269","795","05/07/2020 - 4PM","CPS Administrator","fad1ff4c","fce870ec","Y",NA,"District",NA,NA,41.87031,-87.7023,NA
+"270","795","05/07/2020 - 4PM","CPS Administrator","6850f06b","fce870ec","Y",NA,"District",NA,NA,41.90607,-87.63596,NA
+"271","795","05/11/2020 - 4PM","CPS Administrator","1aec22aa","fce870ec","Y",NA,"District",NA,NA,41.73863,-87.66856,NA
+"272","999999","05/15/2020 - 11AM","Program Manager","dfa86f0c","72bb439f","Y",NA,"Other",NA,NA,41.91775,-87.71713,NA
+"273","999999","05/06/2020 - 9AM","Program Manager","1e9d7897","a9fface6","Y",NA,"Other",NA,NA,41.97606,-87.79589,NA
+"274","999999","05/15/2020 - 11AM","Program Manager","1e9d7897","a9fface6","Y",NA,"Other",NA,NA,41.83788,-87.71876,NA
+"275","999999","05/20/2020 - 9AM","Program Manager","1e9d7897","a9fface6","Y",NA,"Other",NA,NA,41.7252,-87.62312,NA
+"276","999999","05/15/2020 - 11AM","Program Manager","4a7ae791","72bb439f","Y",NA,"Other",NA,NA,41.76063,-87.67638,NA
+"277","999999","05/06/2020 - 9AM","Program Manager","7ebf5713","2270a47e","Y",NA,"Other",NA,NA,41.81342,-87.64323,NA
+"278","999999","05/20/2020 - 9AM","Program Manager","7ebf5713","2270a47e","Y",NA,"Other",NA,NA,41.94909,-87.75741,NA
+"279","999999","05/20/2020 - 9AM","Program Manager","e9bb69da","a6e5e236","Y",NA,"Other",NA,NA,41.83827,-87.71769,NA
+"280","999999","05/06/2020 - 9AM","Program Manager","e9bb69da","a6e5e236","Y",NA,"Other",NA,NA,41.77565,-87.75841,NA
+"281","999999","05/15/2020 - 11AM","Community Member","c09f699a","e87564ca","Y",NA,"Other",NA,NA,41.74415,-87.55304,NA
+"282","999999","05/15/2020 - 11AM","Community Member","08f91838","b4754b21","Y",NA,"Other",NA,NA,41.80729,-87.66099,NA
+"283","999999","05/15/2020 - 11AM","Community Member","432f5562","f9890d2c","Y",NA,"Other",NA,NA,41.85253,-87.69589,NA
+"284","999999","05/15/2020 - 11AM","Community Member","07c1b452","2270a47e","Y",NA,"Other",NA,NA,41.84945,-87.68694,NA
+"285","999999","05/15/2020 - 11AM","Community Member","7ebf5713","2270a47e","Y",NA,"Other",NA,NA,41.91464,-87.72347,NA

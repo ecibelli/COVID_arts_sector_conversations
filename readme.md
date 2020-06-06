@@ -4,9 +4,9 @@ In Spring 2020, Ingenuity conducted a series of conversations with stakeholders 
 
 One goal of the process was to ensure diverse representation from participants across the city. To support that effort, basic participant statistics were collected from every participant. These were supplemented with data in the [artlook database](https://chicago.artlookmap.com) to give detailed information about geography, artistic disciplines, and demographics representated by the participants.
 
-The output is a single image comprised of multiple ggplot objects, laid out in a customized grid.
+The output of the primary script in this directory is a single image comprised of multiple ggplot objects, laid out in a customized grid.
 
-To protect anonymity of participants, the script contained in this folder skips the initial data cleaning steps, which surfaced organization names and participant contact info. The script starts with the cleaned data files, with anonymized identifying info and slightly jittered location coordinates, and shows the steps taken to visualize the data.
+To protect anonymity of participants, the script contained in this folder skips the initial data cleaning steps, which surfaced organization names and participant contact info. The script starts with the cleaned data files, with anonymized identifying info (organization name, email addresses) and scrambled location coordinates (latitude/longitude), and shows the steps taken to visualize the data.
 
 #### Contents of this folder:
  + **chicago_community_area_boundaries/**: Shape files for the city of Chicago and its community areas, for mapping.
@@ -18,4 +18,4 @@ To protect anonymity of participants, the script contained in this folder skips 
  
  #### Output:
  
- ![Participants in the Spring 2020 Ingenuity ArtsEd Response Collective](ARC_participant_visualization_2020-05-28.png?raw=true)
+ ![Participants in the Spring 2020 Ingenuity ArtsEd Response Collective](ARC_participant_visualization_2020-06-06.png?raw=true)

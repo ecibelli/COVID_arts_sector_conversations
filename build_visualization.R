@@ -4,7 +4,7 @@
 # Emily Cibelli
 # emily.cibelli@gmail.com / ec@ingenuity-inc.org
 
-# Last updated: 5.28.20
+# Last updated: 6.6.20
 
 # ......................................................................................
 
@@ -118,7 +118,8 @@ length(unique(cc_df$Organization))
 
 ## What is the geographic distribution of Chicago-based attendees?
 
-# Note that geographic information is only available for Chicago-based CPS schools and arts partners.
+# Note 1: geographic info is only available for Chicago-based CPS schools and arts partners.
+# Note 2: in this version, latitude/longitude are randomly assigned from a larger database of Chicago addresses, to protect the anonymity of participants.
 
 # ...............
 
@@ -161,7 +162,8 @@ attendee_map =
              fill='white', color='black', size = 1.15) + 
   # add points for CPS schools and Chicago-based arts partners
   geom_point(data= cc_attended[!(is.na(cc_attended$longitude)) &
-                                 cc_attended$city == "Chicago",],
+                                 cc_attended$city == "Chicago" &
+                                 cc_attended$OrgType %in% c("Partner", "School"),],
              alpha = 0.85,
              size = 4.5,
              shape = 21,
@@ -177,10 +179,10 @@ attendee_map =
   theme(legend.position = "none",
         panel.border = element_blank()) +
   # apply legend as text for custom placement
-  annotate("text", label = "    CPS schools with\n    participating teachers",
+  annotate("text", label = "    Schools with\n    participating teachers",
            color = teacher_color, size = 7, fontface = 2,
            x = -Inf, y = -Inf, hjust = "left", vjust = -3) +
-  annotate("text", label = "    Participating Chicago\n    arts organizations",
+  annotate("text", label = "    Participating \n    arts organizations",
            color = partner_color, size = 7, fontface = 2,
          x = -Inf, y = -Inf, hjust = "left", vjust = -1.25)
 
@@ -389,7 +391,7 @@ school_demo_pie =
   # custom bare theme with legend
   sota_theme_pie_leg +
   # custom legend title and size
-  guides(fill=guide_legend(title="Demographics of\nparticipating CPS schools ")) +
+  guides(fill=guide_legend(title="Demographics of\nparticipating schools ")) +
   theme(legend.text=element_text(size=20),
         legend.title = element_text(size = 22))
 
@@ -449,7 +451,7 @@ neighborhood_demo_pie =
   sota_theme_pie_leg +
   # label
   guides(fill=guide_legend(
-    title="Neighborhood demographics\nof Chicago participants")) +
+    title="Demographics of\n participant neighborhoods")) +
   theme(legend.text=element_text(size=20),
         legend.title = element_text(size = 22))
 
@@ -512,7 +514,7 @@ event_attendance_graphic =
            x = 1000, y = 5, hjust = "left", vjust = "center")  +
   # event count below all of these numbers
   annotate("text", label = paste("at ", event_count, 
-                                " ArtsEd Response Collective conversations since April 16, 2020", 
+                                " conversations since April 16, 2020", 
                                 sep = ""),
            color = "black", size = 14, fontface = 2,
            x = 600, y = 4.6, hjust = "center", vjust = "top")  +
