@@ -14,7 +14,7 @@ To protect anonymity of participants, the script contained in this folder skips 
  + **figures/**: Output of individual ggplot objects that are part of the final visualization. Saved to disk to ensure that basic aesthetics are correct.
  + **ARC_participant_visualization_YYYY-MM-DD.png**: the final visualization.
  + **build_visualization.R**: The primary script to build the visualization.
- + **plotStandards.R**: Some organization-internal plotting conventions, including color sets and custom ggplot themse.
+ + **plotStandards.R**: Some organization-internal plotting conventions, including color sets and custom ggplot themes.
  
  #### Output:
  
